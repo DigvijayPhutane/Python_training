@@ -1,0 +1,24 @@
+ python_logging_demo.py 2023-07-05 16:48:01,792 INFO 20 Inside Division Function 
+ python_logging_demo.py 2023-07-05 16:48:01,793 INFO 20 Number1 : 20 Number 2 40 
+ python_logging_demo.py 2023-07-05 16:48:01,793 INFO 20 Result 0.5 
+ python_logging_demo.py 2023-07-05 16:48:01,793 INFO 20 Division Completed... 
+ python_logging_demo.py 2023-07-05 16:48:01,794 WARNING 30 Number of Attempts remaining 3 
+ python_logging_demo.py 2023-07-05 16:48:04,727 CRITICAL 50 Normally Program la ShutDown Kartoy...! 
+ python_logging_demo.py 2023-07-05 16:52:09,350 INFO 20 Inside Division Function 
+ python_logging_demo.py 2023-07-05 16:52:09,350 INFO 20 Number1 : 20 Number 2 40 
+ python_logging_demo.py 2023-07-05 16:52:09,351 INFO 20 Result 0.5 
+ python_logging_demo.py 2023-07-05 16:52:09,351 INFO 20 Division Completed... 
+ python_logging_demo.py 2023-07-05 16:52:09,352 WARNING 30 number of attempts remaiing are : 
+ python_logging_demo.py 2023-07-05 16:52:11,215 CRITICAL 50 gonna stop program 
+ python_logging_demo.py 2023-07-05 16:57:25,007 INFO 20 Inside Division Function 
+ python_logging_demo.py 2023-07-05 16:57:25,007 INFO 20 Number1 : 45 Number 2 55 
+ python_logging_demo.py 2023-07-05 16:57:25,007 INFO 20 Result 0.8181818181818182 
+ python_logging_demo.py 2023-07-05 16:57:25,008 INFO 20 Division Completed... 
+ python_logging_demo.py 2023-07-05 16:57:25,008 WARNING 30 number of attempts remaiing are : 
+ python_logging_demo.py 2023-07-05 16:57:27,383 CRITICAL 50 gonna stop program 
+python_logging_demo.py 2023-07-05 16:58:43,415 INFO 20 Inside Division Function
+python_logging_demo.py 2023-07-05 16:58:43,415 INFO 20 Number1 : 100 Number 2 200
+python_logging_demo.py 2023-07-05 16:58:43,415 INFO 20 Result 0.5
+python_logging_demo.py 2023-07-05 16:58:43,415 INFO 20 Division Completed...
+python_logging_demo.py 2023-07-05 16:58:43,415 WARNING 30 number of attempts remaiing are :
+python_logging_demo.py 2023-07-05 16:58:45,502 CRITICAL 50 gonna stop program
